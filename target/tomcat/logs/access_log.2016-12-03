@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [03/Dec/2016:15:56:42 +0545] "GET /design HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [03/Dec/2016:15:56:43 +0545] "GET /design/ HTTP/1.1" 200 204 http-bio-8080-exec-4 726
+0:0:0:0:0:0:0:1 - - [03/Dec/2016:15:56:43 +0545] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [03/Dec/2016:15:56:48 +0545] "GET /design/menulist HTTP/1.1" 200 2308 http-bio-8080-exec-6 1213
+0:0:0:0:0:0:0:1 - - [03/Dec/2016:15:56:53 +0545] "POST /design/addmenu HTTP/1.1" 400 968 http-bio-8080-exec-8 18
